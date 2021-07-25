@@ -1,0 +1,20 @@
+.Nav {
+    height: 56px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    box-sizing: border-box;
+    border-bottom: 1px solid #101216;
+    z-index: 90;
+    background-color: #1e2127;
+    color: #764abc;
+  }
+
+  .NavTitle {
+    text-decoration: none;
+  }

@@ -1,0 +1,25 @@
+.imgContainer {
+    display: block;
+    margin-top: 55px;
+    text-align: center;
+    width: 95vw;
+    height: 500px;
+    padding: 25px;
+}
+
+.infoContainer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.contentContainer {
+    display: flex;
+    padding: 30px;
+    justify-content: center;
+}
+
+.backgroundColor {
+    background-color: #282c34;
+    color: #764abc;
+    min-height: 100vh;
+}

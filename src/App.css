@@ -1,0 +1,19 @@
+
+.App {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  /* flex-direction: row; */
+  /* font-size: calc(10px + 2vmin); */
+  color: white;
+}
+
+.App-content {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 75px;
+}
+
+.App-link {
+  color: #61dafb;
+}
